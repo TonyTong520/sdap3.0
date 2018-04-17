@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # sdap3.0
 
 > A Vue.js project
@@ -28,3 +29,6 @@ npm test
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# sdap3.0
+>>>>>>> 807275b286209f7c58498a66d6a197a2c59660ae
